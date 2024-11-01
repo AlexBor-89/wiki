@@ -2,8 +2,8 @@
 title: Почему не работает ВПР в Excel?
 description: 
 published: true
-date: 2024-11-01T14:00:52.395Z
-tags: 
+date: 2024-11-01T14:30:32.603Z
+tags: excel, впр
 editor: markdown
 dateCreated: 2024-10-31T10:29:27.180Z
 ---
