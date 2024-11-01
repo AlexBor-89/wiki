@@ -2,8 +2,8 @@
 title: Excel
 description: 
 published: true
-date: 2024-11-01T10:25:42.407Z
-tags: 
+date: 2024-11-01T14:32:32.505Z
+tags: excel
 editor: markdown
 dateCreated: 2024-10-28T10:56:58.647Z
 ---
