@@ -2,8 +2,8 @@
 title: Функция ВПР в Excel — 22 факта, которые нужно знать
 description: 
 published: true
-date: 2024-11-01T13:48:09.974Z
-tags: 
+date: 2024-11-01T14:30:59.522Z
+tags: excel, впр
 editor: markdown
 dateCreated: 2024-10-31T08:06:13.528Z
 ---
