@@ -2,8 +2,8 @@
 title: Linux
 description: 
 published: true
-date: 2024-10-31T07:33:14.721Z
-tags: 
+date: 2024-11-01T14:46:30.638Z
+tags: sap, linux
 editor: markdown
 dateCreated: 2024-10-31T07:24:41.992Z
 ---
