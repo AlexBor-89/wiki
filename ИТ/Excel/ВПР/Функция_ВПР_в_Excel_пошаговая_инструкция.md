@@ -2,8 +2,8 @@
 title: Функция ВПР в Excel — пошаговая инструкция с 5 примерами
 description: 
 published: true
-date: 2024-11-01T13:49:41.782Z
-tags: 
+date: 2024-11-01T14:31:50.016Z
+tags: excel, впр
 editor: markdown
 dateCreated: 2024-10-31T09:17:07.906Z
 ---
