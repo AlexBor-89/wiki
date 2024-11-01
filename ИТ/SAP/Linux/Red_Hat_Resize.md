@@ -2,8 +2,8 @@
 title: Увеличение размера диска в Linux (не LVM)
 description: 
 published: true
-date: 2024-10-31T07:34:34.483Z
-tags: 
+date: 2024-11-01T14:47:11.848Z
+tags: sap, linux
 editor: markdown
 dateCreated: 2024-10-31T07:31:05.815Z
 ---
