@@ -2,8 +2,8 @@
 title: Migrate Red Hat 6 to CentOS 6
 description: 
 published: true
-date: 2024-10-31T07:24:16.354Z
-tags: 
+date: 2024-11-01T14:46:48.806Z
+tags: sap, linux
 editor: markdown
 dateCreated: 2024-10-31T07:09:58.714Z
 ---
